@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Typescript, react js, node js, next js, mongoDB, MySQL, Git version control**
 
-- 👯 I’m looking to collaborate on **full stack projects**
+- 👯 I’m looking to collaborate on **full stack web/web app development projects**
 
 - 🤝 I’m looking for help with **MERN Stack**
 
