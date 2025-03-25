@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mani1008" alt="mani1008" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript, react js, node js, next js, mongoDB, MySQL, Git version control**
+- 🌱 My Tech Stacks are **JavaScript, Typescript, react js, node js, next js, mongoDB, MySQL, Docker, GitHub Actions, Jenkins, Git version control**
 
 - 👯 I’m looking to collaborate on **full stack web/web-app development projects**
-
-- 🤝 I’m looking for help with **MERN Stack**
-
-- 💬 Ask me about **react, node, express, mongoDB**
 
 - 📫 How to reach me **manish.dev1895@gmail.com**
 
