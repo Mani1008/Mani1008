@@ -7,8 +7,6 @@
 
 - 🌱 My Tech Stacks are ****JavaScript, Typescript, react js, node js, next js, mongoDB, TailwindCSS, MaterialUI, ReactBootstrap, MySQL, Docker, GitHub Actions, Jenkins, Git version control****
 
-- 👯 I’m looking to collaborate on **full stack web/web-app development projects**
-
 - 📫 How to reach me **manish.dev1895@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
